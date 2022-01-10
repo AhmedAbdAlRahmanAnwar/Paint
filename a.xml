@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_121" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="eg.edu.alexu.csd.oop.draw.cs07_40.Square" id="Square0">
+    <void id="Point0" property="position">
+     <void class="java.awt.Point" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Point0"/>
+       <int>134</int>
+      </void>
+     </void>
+     <void class="java.awt.Point" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Point0"/>
+       <int>225</int>
+      </void>
+     </void>
+    </void>
+    <void property="properties">
+     <void method="put">
+      <string>width</string>
+      <double>118.0</double>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="eg.edu.alexu.csd.oop.draw.cs07_40.Triangle" id="Triangle0">
+    <void property="color">
+     <object class="java.awt.Color" id="Color0">
+      <int>255</int>
+      <int>175</int>
+      <int>175</int>
+      <int>255</int>
+     </object>
+    </void>
+    <void property="fillColor">
+     <object class="java.awt.Color" id="Color1">
+      <int>255</int>
+      <int>255</int>
+      <int>0</int>
+      <int>255</int>
+     </object>
+    </void>
+    <void id="Point1" property="position">
+     <void class="java.awt.Point" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Point1"/>
+       <int>578</int>
+      </void>
+     </void>
+     <void class="java.awt.Point" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Point1"/>
+       <int>59</int>
+      </void>
+     </void>
+    </void>
+    <void property="properties">
+     <void method="put">
+      <string>y2</string>
+      <double>189.0</double>
+     </void>
+     <void method="put">
+      <string>x2</string>
+      <double>813.0</double>
+     </void>
+     <void method="put">
+      <string>y3</string>
+      <double>189.0</double>
+     </void>
+     <void method="put">
+      <string>x3</string>
+      <double>578.0</double>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object idref="Triangle0"/>
+  </void>
+  <void method="add">
+   <object class="eg.edu.alexu.csd.oop.draw.cs07_40.Square" id="Square1">
+    <void property="color">
+     <object idref="Color0"/>
+    </void>
+    <void property="fillColor">
+     <object idref="Color1"/>
+    </void>
+    <void id="Point2" property="position">
+     <void class="java.awt.Point" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Point2"/>
+       <int>290</int>
+      </void>
+     </void>
+     <void class="java.awt.Point" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Point2"/>
+       <int>125</int>
+      </void>
+     </void>
+    </void>
+    <void property="properties">
+     <void method="put">
+      <string>width</string>
+      <double>156.0</double>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object idref="Square1"/>
+  </void>
+  <void method="add">
+   <object idref="Square1"/>
+  </void>
+  <void method="add">
+   <object class="eg.edu.alexu.csd.oop.draw.cs07_40.Rectangle" id="Rectangle0">
+    <void property="color">
+     <object idref="Color0"/>
+    </void>
+    <void property="fillColor">
+     <object idref="Color1"/>
+    </void>
+    <void id="Point3" property="position">
+     <void class="java.awt.Point" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Point3"/>
+       <int>954</int>
+      </void>
+     </void>
+     <void class="java.awt.Point" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Point3"/>
+       <int>75</int>
+      </void>
+     </void>
+    </void>
+    <void property="properties">
+     <void method="put">
+      <string>width</string>
+      <double>160.0</double>
+     </void>
+     <void method="put">
+      <string>height</string>
+      <double>121.0</double>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object idref="Rectangle0"/>
+  </void>
+  <void method="add">
+   <object idref="Rectangle0"/>
+  </void>
+  <void method="add">
+   <object idref="Rectangle0"/>
+  </void>
+  <void method="add">
+   <object idref="Rectangle0"/>
+  </void>
+  <void method="add">
+   <object idref="Rectangle0"/>
+  </void>
+  <void method="add">
+   <object idref="Rectangle0"/>
+  </void>
+  <void method="add">
+   <object idref="Rectangle0"/>
+  </void>
+  <void method="add">
+   <object class="eg.edu.alexu.csd.oop.draw.cs07_40.Square" id="Square2">
+    <void property="color">
+     <object class="java.awt.Color" id="Color2">
+      <int>255</int>
+      <int>0</int>
+      <int>255</int>
+      <int>255</int>
+     </object>
+    </void>
+    <void property="fillColor">
+     <object idref="Color2"/>
+    </void>
+    <void id="Point4" property="position">
+     <void class="java.awt.Point" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Point4"/>
+       <int>548</int>
+      </void>
+     </void>
+     <void class="java.awt.Point" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Point4"/>
+       <int>269</int>
+      </void>
+     </void>
+    </void>
+    <void property="properties">
+     <void method="put">
+      <string>width</string>
+      <double>211.0</double>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object idref="Square2"/>
+  </void>
+  <void method="add">
+   <object idref="Square2"/>
+  </void>
+  <void method="add">
+   <object idref="Square2"/>
+  </void>
+  <void method="add">
+   <object idref="Square2"/>
+  </void>
+  <void method="add">
+   <object class="eg.edu.alexu.csd.oop.draw.cs07_40.Circle" id="Circle0">
+    <void property="color">
+     <object idref="Color1"/>
+    </void>
+    <void property="fillColor">
+     <object idref="Color2"/>
+    </void>
+    <void id="Point5" property="position">
+     <void class="java.awt.Point" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Point5"/>
+       <int>798</int>
+      </void>
+     </void>
+     <void class="java.awt.Point" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Point5"/>
+       <int>247</int>
+      </void>
+     </void>
+    </void>
+    <void property="properties">
+     <void method="put">
+      <string>radius</string>
+      <double>93.5</double>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object idref="Circle0"/>
+  </void>
+  <void method="add">
+   <object idref="Circle0"/>
+  </void>
+  <void method="add">
+   <object idref="Circle0"/>
+  </void>
+  <void method="add">
+   <object idref="Circle0"/>
+  </void>
+  <void method="add">
+   <object idref="Circle0"/>
+  </void>
+  <void method="add">
+   <object class="eg.edu.alexu.csd.oop.draw.cs07_40.Square" id="Square3">
+    <void property="color">
+     <object idref="Color1"/>
+    </void>
+    <void property="fillColor">
+     <object class="java.awt.Color">
+      <int>0</int>
+      <int>0</int>
+      <int>255</int>
+      <int>255</int>
+     </object>
+    </void>
+    <void id="Point6" property="position">
+     <void class="java.awt.Point" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Point6"/>
+       <int>192</int>
+      </void>
+     </void>
+     <void class="java.awt.Point" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Point6"/>
+       <int>366</int>
+      </void>
+     </void>
+    </void>
+    <void property="properties">
+     <void method="put">
+      <string>width</string>
+      <double>76.0</double>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object idref="Square3"/>
+  </void>
+  <void method="add">
+   <object idref="Square3"/>
+  </void>
+  <void method="add">
+   <object idref="Square3"/>
+  </void>
+  <void method="add">
+   <object idref="Square3"/>
+  </void>
+  <void method="add">
+   <object idref="Square3"/>
+  </void>
+  <void method="add">
+   <object idref="Square3"/>
+  </void>
+ </object>
+</java>

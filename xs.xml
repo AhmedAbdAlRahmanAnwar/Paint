@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_121" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="eg.edu.alexu.csd.oop.draw.cs07_40.Ellipse" id="Ellipse0">
+    <void id="Point0" property="position">
+     <void class="java.awt.Point" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Point0"/>
+       <int>222</int>
+      </void>
+     </void>
+     <void class="java.awt.Point" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Point0"/>
+       <int>115</int>
+      </void>
+     </void>
+    </void>
+    <void property="properties">
+     <void method="put">
+      <string>width</string>
+      <double>323.0</double>
+     </void>
+     <void method="put">
+      <string>height</string>
+      <double>197.0</double>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="eg.edu.alexu.csd.oop.draw.cs07_40.Triangle" id="Triangle0">
+    <void id="Point1" property="position">
+     <void class="java.awt.Point" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Point1"/>
+       <int>716</int>
+      </void>
+     </void>
+     <void class="java.awt.Point" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Point1"/>
+       <int>183</int>
+      </void>
+     </void>
+    </void>
+    <void property="properties">
+     <void method="put">
+      <string>y2</string>
+      <double>351.0</double>
+     </void>
+     <void method="put">
+      <string>x2</string>
+      <double>793.0</double>
+     </void>
+     <void method="put">
+      <string>y3</string>
+      <double>351.0</double>
+     </void>
+     <void method="put">
+      <string>x3</string>
+      <double>639.0</double>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object idref="Triangle0"/>
+  </void>
+ </object>
+</java>
